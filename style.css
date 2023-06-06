@@ -1,0 +1,19 @@
+body {
+  font-family: 'Courier New', monospace;
+  font-size: 20px;
+}
+
+.container {
+  margin: 20px auto;
+  text-align: center;
+}
+
+#timer {
+  font-size: 36px;
+}
+
+button {
+  width: 80px;
+  height: 40px;
+  margin-top: 40px;
+}
